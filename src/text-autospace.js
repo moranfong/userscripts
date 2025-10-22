@@ -1,4 +1,4 @@
-// Text AutoSpace - 文本自动空格
+// Text AutoSpace - 文本自动间距
 (function() {
     'use strict';
     
